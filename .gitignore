@@ -106,7 +106,6 @@ fabric.properties
 
 */node_modules
 dist
-src/index.html
 
 
 
